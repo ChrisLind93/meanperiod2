@@ -30,7 +30,7 @@ to the correct test case.
 Mocha can use any assertion library Assertions, but here I have used Chai.
 Mocha is used for unit and integration testing, and it's a great candidate for BDD (Behavior Driven Development).
 
-```
+```javascript
 function addAsync(n1,n2,callback){
     setTimeout(function(){
         var result = n1+n2;
