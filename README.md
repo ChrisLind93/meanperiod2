@@ -38,7 +38,7 @@ function addAsync(n1,n2,callback){
     },1000);
 }
 
-// The way we test the method in testModules.js:
+// To test teh method:
 var expect = require("chai").expect;
 var adder = require("../module");
 
