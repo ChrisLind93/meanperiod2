@@ -1,6 +1,3 @@
-/**
- * Created by butwhole on 05/09/2016.
- */
 var jokes = [
     "alex is such a faggot, that it is not even funny anymore",
     "at what age is it appropriate to tell your son he is not really a virgin",
